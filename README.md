@@ -1,1 +1,1 @@
-# pkgrepo
+# pkgbuilds
